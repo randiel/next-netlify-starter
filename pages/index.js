@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Bievenido a mi aplicacion Netlify!" />
+        <Header title="Bievenido cliente segmento A a mi aplicacion Netlify!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
